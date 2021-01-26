@@ -44,3 +44,7 @@ Data Scientist and Data Engieering paths. This is will be continuosly updated. W
 	<p>A collection of AC solutions to competetive programming problems from some of the popular Online Judges like Leetcode, CodeForces, CodeChef and SPOJ. This is will be continuosly updated. WIP</p>
 	
 </ul>
+
+<p>To take a look at more projects, vist my <a href="https://github.com/sudeepnarkar">GitHub</a>
+
+
