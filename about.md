@@ -20,6 +20,7 @@ layout: page
 	<li>Docker</li>
 	<li>Kubernetes</li>
 	<li>Ansible</li>
+	<li>Amazon Web Services</li>
 	<li>Service Oriented Architecture</li>
 	<li>Microservices</li>
 	<li>Continuous Integration and Continuous Delivery (Jenkins, Bamboo)</li>
