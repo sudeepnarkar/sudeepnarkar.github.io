@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>I am software engineer. I like writing elegant, robust and maintainble code to solve difficult engineering problems.</p>
+<p>I am a software engineer. I am deeply interested in Data Science and Distributed Systems. I am passionate about writing elegant, robust and extensible code for software systems or applications that operate at scale and have a meaningful impact on the world. </p>
 
 <h2>Skills</h2>
 
